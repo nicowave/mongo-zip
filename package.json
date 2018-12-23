@@ -1,0 +1,25 @@
+{
+  "name": "mongo-zip",
+  "version": "1.0.0",
+  "description": "app that provides US zipcodes on REST api using NODE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicowave/mongo-zip.git"
+  },
+  "keywords": [
+    "mongo",
+    "rest",
+    "node",
+    "api"
+  ],
+  "author": "nicolas roldos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicowave/mongo-zip/issues"
+  },
+  "homepage": "https://github.com/nicowave/mongo-zip#readme"
+}
